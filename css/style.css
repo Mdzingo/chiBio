@@ -37,16 +37,10 @@ em {
     font-weight: bold;
 }
 
-.secret {
+.sub-point {
     font-style: italic;
     font-size: 15px;
     padding-left:30px;
-    color: #6FA1A0;
-}
-
-.sub-point {
-    padding-left:30px;
-    font-size: 15px;
     color: #6FA1A0;
 }
 em.bl {
