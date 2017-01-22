@@ -8,6 +8,7 @@ h1 {
 
 p {
     font-size: 20px;
+    padding-left:15px;
 }
 
 a {
@@ -26,16 +27,17 @@ a {
 }
 
 .restart {
-    padding-top: 10px;
+    padding-top: 20px;
     font-style: bold;
 }
 
 .secret {
     font-style: italic;
+    font-size: 15px;
+    padding-left:30px;
     color: #6FA1A0;
 }
 
 .sub-point {
-    color: blue;
-    left: 10px;
-}
+    color: #9ACCCB;
+    padding-left:30px;
