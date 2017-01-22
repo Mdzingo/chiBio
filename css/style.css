@@ -34,7 +34,6 @@ a {
 }
 
 .restart {
-    padding-top: 20px;
     font-weight: bold;
 }
 
@@ -50,10 +49,10 @@ a {
     font-size: 15px;
 }
 
-span.bl {
+em.bl {
     color: #0fa3b1;
 }
 
-span.pi {
+em.pi {
     color: #F87666;
 }
