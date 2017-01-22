@@ -3,7 +3,6 @@ body {
 }
 
 #name {
-    background: black;
     margin-bottom: 50px;
     margin-top: 50px;
 }
@@ -13,13 +12,13 @@ body {
 }
 
 #past {
-    background: pink;
+    margin-bottom: 50px;
 }
 
 #present {
-    background: black;
+    margin-bottom: 50px;
 }
 
 #future {
-    background: blue;
+    margin-bottom: 50px;
 }
