@@ -10,8 +10,8 @@ p {
     font-size: 20px;
     padding-left:15px;
 }
-
-a {
+em {
+    font-style: normal;
 }
 
 .background {
@@ -25,12 +25,12 @@ a {
 
 .me-img {
     content: url("../img/turkey.jpg");
-    width: 350px;
+    width: 400px;
     position: absolute;
     top: 50px;
     right: 200px;
     z-index: -1;
-    height: 400px;
+    height: 450px;
 }
 
 .restart {
@@ -47,9 +47,6 @@ a {
 .sub-point {
     padding-left:30px;
     font-size: 15px;
-}
-em {
-    color:blue;
 }
 em.bl {
     color: #0fa3b1;
