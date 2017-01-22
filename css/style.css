@@ -24,7 +24,7 @@ a {
 }
 
 .me-img {
-    content: url("../img/turkey.jpeg");
+    content: url("../img/turkey.jpg");
     width: 50px;
     position: absolute;
     top: 0;
