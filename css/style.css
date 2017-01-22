@@ -47,12 +47,13 @@ a {
 
 .sub-point {
     padding-left:30px;
+    font-size: 15px;
 }
 
-a .b {
+span .b {
     color: #0fa3b1;
 }
 
-a .p {
+span .p {
     color: #F87666;
 }
