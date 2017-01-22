@@ -12,7 +12,6 @@ p {
 }
 
 a {
-    color: #F87666;
 }
 
 .background {
@@ -39,5 +38,13 @@ a {
 }
 
 .sub-point {
-    color: #9ACCCB;
     padding-left:30px;
+}
+
+a .b {
+    color: #9acccb;
+}
+
+a .p {
+    color: #F87666;
+}
