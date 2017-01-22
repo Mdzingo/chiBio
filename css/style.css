@@ -22,7 +22,7 @@ a {
 }
 
 .me-img {
-    content: url("../img/turkey.jpeg);
+    content: url("../img/turkey.jpeg");
     width: 50px;
 }
 
