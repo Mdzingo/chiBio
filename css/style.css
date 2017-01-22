@@ -25,12 +25,12 @@ a {
 
 .me-img {
     content: url("../img/turkey.jpg");
-    width: 50px;
+    width: 350px;
     position: absolute;
-    top: 0;
-    right: 500px;
-    z-index: 0;
-    height: 50px;
+    top: 50px;
+    right: 200px;
+    z-index: -1;
+    height: 400px;
 }
 
 .restart {
