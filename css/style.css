@@ -17,12 +17,20 @@ a {
 .background {
     position: absolute;
     background: #f4dbd8;
-    color: #656565;
+    color: #fcf5f4;
+    z-index: -1;
+    top: 0;
+    width: 100%;
 }
 
 .me-img {
     content: url("../img/turkey.jpeg");
     width: 50px;
+    position: absolute;
+    top: 0;
+    right: 500px;
+    z-index: 0;
+    height: 50px;
 }
 
 .restart {
@@ -42,7 +50,7 @@ a {
 }
 
 a .b {
-    color: #9acccb;
+    color: #0fa3b1;
 }
 
 a .p {
