@@ -7,20 +7,19 @@ h1 {
 }
 
 p {
-    font-size:20px;
-
+    font-size: 20px;
 }
 
 .restart {
     padding-top: 10px;
-    font-style:bold;
+    font-style: bold;
 }
 
 .secret {
-    font-style:italic;
+    font-style: italic;
 }
 
 .sub-point {
-    color:blue;
-    left:10px;
+    color: blue;
+    left: 10px;
 }
