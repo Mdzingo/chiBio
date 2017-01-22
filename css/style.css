@@ -2,23 +2,25 @@ body {
     font-family: "Muli", sans-serif;
 }
 
-#name {
-    margin-bottom: 50px;
-    margin-top: 50px;
-}
-
-#name h1 {
+h1 {
     font-size: 70px;
 }
 
-#past {
-    margin-bottom: 50px;
+p {
+    font-size:20px;
+
 }
 
-#present {
-    margin-bottom: 50px;
+.restart {
+    padding-top: 10px;
+    font-style:bold;
 }
 
-#future {
-    margin-bottom: 50px;
+.secret {
+    font-style:italic;
+}
+
+.sub-point {
+    color:blue;
+    left:10px;
 }
