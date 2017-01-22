@@ -10,6 +10,21 @@ p {
     font-size: 20px;
 }
 
+a {
+    color: #F87666;
+}
+
+.background {
+    position: absolute;
+    background: #f4dbd8;
+    color: #656565;
+}
+
+.me-img {
+    content: url("../img/turkey.jpeg);
+    width: 50px;
+}
+
 .restart {
     padding-top: 10px;
     font-style: bold;
@@ -17,6 +32,7 @@ p {
 
 .secret {
     font-style: italic;
+    color: #6FA1A0;
 }
 
 .sub-point {
