@@ -2,6 +2,11 @@ body {
     font-family: "Muli", sans-serif;
 }
 
+#name {
+    background: green;
+    margin-bottom: 10px;
+}
+
 #past {
     background: pink;
 }
