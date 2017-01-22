@@ -31,6 +31,10 @@ em {
     right: 200px;
     z-index: -1;
     height: 450px;
+
+    border-color: #f87666;
+    border-style: solid;
+    border-width: 5px;
 }
 
 .restart {
