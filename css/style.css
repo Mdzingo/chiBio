@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 68px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
     padding-left:15px;
 }
 em {
@@ -19,7 +19,8 @@ footer {
 }
 a {
     padding-left: 25px;
-    font-size: 20px;
+    font-size: 15px;
+    color:#333;
 }
 a:hover {
     color:#F87666;
@@ -53,7 +54,7 @@ a:hover {
 
 .sub-point {
     font-style: italic;
-    font-size: 15px;
+    font-size: 12px;
     padding-left:30px;
     color: #6FA1A0;
 }
