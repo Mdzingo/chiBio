@@ -1,6 +1,7 @@
 body {
     font-family: "Muli", sans-serif;
     background-color: #aca592;
+    color: #668586;
 }
 
 h1 {
@@ -30,6 +31,10 @@ a:hover {
 .me-img {
     content: url("../img/personal.jpg");
     z-index: -1;
+    width: 50%;
+    right: 0;
+    top: 0;
+    margin: 20px;
 }
 
 .restart {
@@ -40,13 +45,13 @@ a:hover {
     font-style: italic;
     font-size: 14px;
     padding-left:30px;
-    color: #6FA1A0;
+    color: #82AEB1;
 }
 .bl {
-    color: #0fa3b1;
+    color: #47E5BC;
 }
 
 .pi {
-    color: #F87666;
+    color: #F4AFBA;
 }
 
