@@ -1,12 +1,10 @@
 body {
     font-family: "Muli", sans-serif;
-    background-color: #CAC5B9;
+    background-color: #D3CFC5;
 }
-
 h1 {
     font-size: 68px;
 }
-
 p {
     font-size: 18px;
     padding-left:15px;
@@ -24,7 +22,7 @@ a {
     color:#333;
 }
 a:hover {
-    color:#F87666;
+    color:#F0386B;
 }
 
 .me-img {
@@ -33,7 +31,7 @@ a:hover {
     width: 50%;
     right: 0;
     top: 0;
-    margin: 20px;
+    margin: 2%;
     position: absolute;
 }
 
@@ -45,13 +43,13 @@ a:hover {
     font-style: italic;
     font-size: 14px;
     padding-left:30px;
-    color: #A07178;
+    color: #246A73;
 }
 .bl {
-    color: #47E5BC;
+    color: #368F8B;
 }
 
 .pi {
-    color: #8D3B72;
+    color: #F0386B;
 }
 
