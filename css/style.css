@@ -26,21 +26,11 @@ a:hover {
     color:#F87666;
 }
 
-.background {
-    position: absolute;
-    background: #f4dbd8;
-    color: #fcf5f4;
-    z-index: -1;
-    top: 0;
-    width: 100%;
-}
-
 .me-img {
-    content: url("../img/turkey.jpg");
+    content: url("../img/personal.jpg");
     width: 400px;
     position: absolute;
     top: 50px;
-    right: 200px;
     z-index: -1;
     height: 450px;
     border-color: #f87666;
