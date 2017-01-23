@@ -1,7 +1,6 @@
 body {
     font-family: "Muli", sans-serif;
-    background-color: #aca592;
-    color: #668586;
+    background-color: #CAC5B9;
 }
 
 h1 {
@@ -35,6 +34,7 @@ a:hover {
     right: 0;
     top: 0;
     margin: 20px;
+    position: absolute;
 }
 
 .restart {
@@ -45,13 +45,13 @@ a:hover {
     font-style: italic;
     font-size: 14px;
     padding-left:30px;
-    color: #82AEB1;
+    color: #A07178;
 }
 .bl {
     color: #47E5BC;
 }
 
 .pi {
-    color: #F4AFBA;
+    color: #8D3B72;
 }
 
