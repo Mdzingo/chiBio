@@ -5,6 +5,9 @@ body {
 h1 {
     font-size: 68px;
 }
+h3 {
+    padding-bottom: 25px;
+}
 p {
     font-size: 18px;
     padding-left:15px;
