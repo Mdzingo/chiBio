@@ -4,9 +4,12 @@ body {
 }
 h1 {
     font-size: 68px;
+    font-weight: bold;
 }
 h3 {
-    padding-bottom: 25px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 50px;
 }
 p {
     font-size: 18px;
